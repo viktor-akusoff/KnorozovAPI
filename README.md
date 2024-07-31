@@ -1,5 +1,7 @@
 # KnorozovAPI: A Multilingual Translation Management Platform
 
+![image](https://github.com/user-attachments/assets/15abc9e2-970d-4bf3-97b3-8162a0391eaa)
+
 KnorozovAPI is a comprehensive platform for managing multilingual translations, empowering you to effortlessly handle translations for your applications or websites. 
 
 ## Features:
